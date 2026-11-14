@@ -1,0 +1,13 @@
+{
+  "name": "AxisPlanner",
+  "version": "0.1.0",
+  "description": "Buffered multi-axis trajectory planning for Axis DC and stepper motors",
+  "keywords": ["motion", "planner", "stepper", "motor", "axis"],
+  "repository": {"type": "git", "url": "https://github.com/rs-a-demyanenko/Planner.git"},
+  "frameworks": "arduino",
+  "platforms": "*",
+  "license": "MIT",
+  "dependencies": {
+    "Axis": "https://github.com/rs-a-demyanenko/Axis.git#55e855dbc42f560b08a481450cb2e694871f0b11"
+  }
+}

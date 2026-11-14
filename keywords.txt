@@ -1,0 +1,11 @@
+AxisPlanner	KEYWORD1
+addAxis	KEYWORD2
+addTarget	KEYWORD2
+start	KEYWORD2
+resume	KEYWORD2
+tick	KEYWORD2
+stop	KEYWORD2
+brake	KEYWORD2
+ready	KEYWORD2
+available	KEYWORD2
+clearBuffer	KEYWORD2
